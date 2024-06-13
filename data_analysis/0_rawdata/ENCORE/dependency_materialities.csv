@@ -1,0 +1,743 @@
+Process,Ecosystem Service,Rating,Justification
+Airport services,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Airport services,Flood and storm protection,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Airport services,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Airport services,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Airport services,Surface water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Alcoholic fermentation and distilling,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Alcoholic fermentation and distilling,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Alcoholic fermentation and distilling,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Alcoholic fermentation and distilling,Genetic materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Alcoholic fermentation and distilling,Ground water,VH,Ecosystem service is critical and irreplaceable in production process 
+Alcoholic fermentation and distilling,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Alcoholic fermentation and distilling,Soil quality,M,"Production process does not rely on the ecosystem service per se, but on other production processes (e.g. agriculture)"
+Alcoholic fermentation and distilling,Surface water,VH,Ecosystem service is critical and irreplaceable in production process 
+Alcoholic fermentation and distilling,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Alcoholic fermentation and distilling,Water quality,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Alumina refining,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Alumina refining,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Alumina refining,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Alumina refining,Surface water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Alumina refining,Water flow maintenance,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Aquaculture,Bio-remediation,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+
+"
+Aquaculture,Buffering and attenuation of mass flows,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Aquaculture,Climate regulation,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Aquaculture,Dilution by atmosphere and ecosystems,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+
+"
+Aquaculture,Disease control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Aquaculture,Fibres and other materials,VH,"Ecosystem service is critical and irreplaceable in production process. Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+Aquaculture,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Aquaculture,Flood and storm protection,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Aquaculture,Genetic materials,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Aquaculture,Ground water,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Aquaculture,Maintain nursery habitats,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Aquaculture,Mass stabilisation and erosion control,H,Ecosystem service is critical and irreplaceable in production process 
+Aquaculture,Pest control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Aquaculture,Soil quality,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Aquaculture,Surface water,M,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Aquaculture,Ventilation,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Aquaculture,Water flow maintenance,H,Ecosystem service is critical and irreplaceable in production process
+Aquaculture,Water quality,H,"Ecosystem service is critical and irreplaceable in production process. Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes service this a high risk
+"
+Biomass energy production,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Biomass energy production,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Biomass energy production,Fibres and other materials,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Biomass energy production,Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Biomass energy production,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Biomass energy production,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Biomass energy production,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Biomass energy production,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Biomass energy production,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Biomass energy production,Water quality,L,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Cable and satellite installations on land,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Cable and satellite installations on land,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Cable and satellite installations on land,Soil quality,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service 
+"Catalytic cracking, fractional distillation and crystallization",Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+"Catalytic cracking, fractional distillation and crystallization",Climate regulation,L,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+"Catalytic cracking, fractional distillation and crystallization",Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+"Catalytic cracking, fractional distillation and crystallization",Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+"Catalytic cracking, fractional distillation and crystallization",Ground water,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+"Catalytic cracking, fractional distillation and crystallization",Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+"Catalytic cracking, fractional distillation and crystallization",Mediation of sensory impacts,L,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+"Catalytic cracking, fractional distillation and crystallization",Surface water,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+"Catalytic cracking, fractional distillation and crystallization",Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+"Catalytic cracking, fractional distillation and crystallization",Water flow maintenance,L,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+"Catalytic cracking, fractional distillation and crystallization",Water quality,L,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Commercial printing,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Commercial printing,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Construction,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Construction,Climate regulation,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Construction,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Construction,Flood and storm protection,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Construction,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Construction,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Construction,Mediation of sensory impacts,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Construction,Pest control,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Construction,Soil quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Construction,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Construction,Ventilation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Construction,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Construction materials production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Construction materials production,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Construction materials production,Mediation of sensory impacts,L,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Construction materials production,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Construction materials production,Water quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cruise line provision,Climate regulation,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Cruise line provision,Flood and storm protection,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Cruise line provision,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Cruise line provision,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Cruise line provision,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Cruise line provision,Water quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cryogenic air separation,Bio-remediation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cryogenic air separation,Climate regulation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cryogenic air separation,Dilution by atmosphere and ecosystems,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Cryogenic air separation,Filtration,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cryogenic air separation,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Cryogenic air separation,Ground water,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cryogenic air separation,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Cryogenic air separation,Mediation of sensory impacts,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cryogenic air separation,Surface water,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cryogenic air separation,Ventilation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cryogenic air separation,Water flow maintenance,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Cryogenic air separation,Water quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Data processing and outsourced services,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Data processing and outsourced services,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Distribution,Climate regulation,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Distribution,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Distribution,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Electric/nuclear power transmission and distribution,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Electric/nuclear power transmission and distribution,Flood and storm protection,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Electric/nuclear power transmission and distribution,Mass stabilisation and erosion control,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Electronics and hardware production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Electronics and hardware production,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Electronics and hardware production,Surface water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Environmental and facilities services,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Environmental and facilities services,Ground water,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Environmental and facilities services,Surface water,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Fibre-optic cable installation (marine),Buffering and attenuation of mass flows,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Fibre-optic cable installation (marine),Climate regulation,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Fibre-optic cable installation (marine),Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Fibre-optic cable installation (marine),Water quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Financial services,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Footwear production,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Footwear production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Footwear production,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Footwear production,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Footwear production,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Footwear production,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Footwear production,Water quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Freshwater wild-caught fish,Buffering and attenuation of mass flows,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Freshwater wild-caught fish,Climate regulation,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Freshwater wild-caught fish,Dilution by atmosphere and ecosystems,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Freshwater wild-caught fish,Disease control,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Freshwater wild-caught fish,Genetic materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Freshwater wild-caught fish,Maintain nursery habitats,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Freshwater wild-caught fish,Mass stabilisation and erosion control,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Freshwater wild-caught fish,Pest control,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Freshwater wild-caught fish,Soil quality,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Freshwater wild-caught fish,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Freshwater wild-caught fish,Ventilation,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Freshwater wild-caught fish,Water quality,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Gas adsorption,Bio-remediation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas adsorption,Climate regulation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas adsorption,Dilution by atmosphere and ecosystems,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Gas adsorption,Filtration,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas adsorption,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Gas adsorption,Ground water,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas adsorption,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Gas adsorption,Mediation of sensory impacts,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas adsorption,Surface water,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas adsorption,Ventilation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas adsorption,Water flow maintenance,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas adsorption,Water quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas distribution,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Gas distribution,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Gas distribution,Mass stabilisation and erosion control,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Gas retail,Climate regulation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas retail,Filtration,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas retail,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Gas retail,Water flow maintenance,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Gas retail,Water quality,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Geothermal energy production,Bio-remediation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Geothermal energy production,Climate regulation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Geothermal energy production,Filtration,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Geothermal energy production,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Geothermal energy production,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Geothermal energy production,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Geothermal energy production,Surface water,M,"High temperature geothermal energy is the predominant commercially produced form of geothermal energy and is not heavily reliant on surface water. However, low temperature geothermal is typically reliant on significant quantities service of surface water and could not function with it."
+Geothermal energy production,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Geothermal energy production,Water quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Glass making,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Glass making,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Glass making,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Health care equipment production,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Health care equipment production,Dilution by atmosphere and ecosystems,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Health care equipment production,Fibres and other materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Health care equipment production,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Health care equipment production,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Hotels and resorts provision,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Hotels and resorts provision,Fibres and other materials,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Hotels and resorts provision,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Hotels and resorts provision,Ground water,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Hotels and resorts provision,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Hotels and resorts provision,Surface water,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Hotels and resorts provision,Water quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Houseware and specialities production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Houseware and specialities production,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Houseware and specialities production,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Hydropower production,Bio-remediation,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Hydropower production,Climate regulation,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Hydropower production,Filtration,VL,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Hydropower production,Flood and storm protection,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Hydropower production,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Hydropower production,Mass stabilisation and erosion control,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Hydropower production,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Hydropower production,Water flow maintenance,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Hydropower production,Water quality,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Incomplete combustion,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Incomplete combustion,Ground water,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Incomplete combustion,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Incomplete combustion,Surface water,L,"Most of the time the production process can take place even
+with full disruption of the ecosystem service"
+Incomplete combustion,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Infrastructure builds,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Infrastructure holdings,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Infrastructure holdings,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Infrastructure maintenance contracts,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Infrastructure maintenance contracts,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Infrastructure maintenance contracts,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Infrastructure maintenance contracts,Flood and storm protection,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Infrastructure maintenance contracts,Mediation of sensory impacts,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Infrastructure maintenance contracts,Pest control,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Infrastructure maintenance contracts,Soil quality,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Infrastructure maintenance contracts,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Infrastructure maintenance contracts,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Integrated oil and gas,Bio-remediation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Integrated oil and gas,Climate regulation,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Integrated oil and gas,Filtration,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Integrated oil and gas,Flood and storm protection,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Integrated oil and gas,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Integrated oil and gas,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Integrated oil and gas,Surface water,H,Ecosystem service is critical and irreplaceable in production process 
+Integrated oil and gas,Water quality,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Internet services,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Internet services,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Iron extraction,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Iron extraction,Ground water,H,Ecosystem service is critical and irreplaceable in production process 
+Iron extraction,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Iron extraction,Surface water,H,Ecosystem service is critical and irreplaceable in production process 
+Iron extraction,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Iron metal production,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Iron metal production,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Iron metal production,Mass stabilisation and erosion control,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Iron metal production,Surface water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Iron metal production,Water flow maintenance,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Jewellery production,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Jewellery production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Jewellery production,Fibres and other materials,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+
+ Although less practical, production process can take place without the ecosystem service due to availability of substitutes
+"
+Jewellery production,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Jewellery production,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Jewellery production,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Jewellery production,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Jewellery production,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Jewellery production,Water flow maintenance,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Jewellery production,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale forestry,Animal-based energy,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale forestry,Bio-remediation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Large-scale forestry,Climate regulation,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Disease control,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Fibres and other materials,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale forestry,Flood and storm protection,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Mass stabilisation and erosion control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Pest control,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Pollination,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Soil quality,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale forestry,Water flow maintenance,H,Ecosystem service is critical and irreplaceable in production process
+Large-scale irrigated arable crops,Animal-based energy,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale irrigated arable crops,Bio-remediation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Large-scale irrigated arable crops,Buffering and attenuation of mass flows,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale irrigated arable crops,Climate regulation,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale irrigated arable crops,Dilution by atmosphere and ecosystems,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Large-scale irrigated arable crops,Disease control,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale irrigated arable crops,Fibres and other materials,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+
+ Although less practical, production process can take place without the ecosystem service due to availability of substitutes
+"
+Large-scale irrigated arable crops,Filtration,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Large-scale irrigated arable crops,Flood and storm protection,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale irrigated arable crops,Genetic materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Large-scale irrigated arable crops,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale irrigated arable crops,Mass stabilisation and erosion control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale irrigated arable crops,Pest control,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale irrigated arable crops,Pollination,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+Large-scale irrigated arable crops,Soil quality,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+Large-scale irrigated arable crops,Surface water,H,Ecosystem service is critical and irreplaceable in production process 
+Large-scale irrigated arable crops,Ventilation,L,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Large-scale irrigated arable crops,Water flow maintenance,H,Ecosystem service is critical and irreplaceable in production process
+Large-scale irrigated arable crops,Water quality,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+Large-scale livestock (beef and dairy),Bio-remediation,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Large-scale livestock (beef and dairy),Buffering and attenuation of mass flows,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale livestock (beef and dairy),Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Large-scale livestock (beef and dairy),Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale livestock (beef and dairy),Disease control,M,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Large-scale livestock (beef and dairy),Fibres and other materials,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale livestock (beef and dairy),Filtration,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Large-scale livestock (beef and dairy),Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Large-scale livestock (beef and dairy),Genetic materials,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale livestock (beef and dairy),Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale livestock (beef and dairy),Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale livestock (beef and dairy),Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale livestock (beef and dairy),Pest control,L,Most of the time the production process can take place even with full disruption of the ecosystem service
+Large-scale livestock (beef and dairy),Pollination,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale livestock (beef and dairy),Soil quality,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale livestock (beef and dairy),Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale livestock (beef and dairy),Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale livestock (beef and dairy),Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Large-scale livestock (beef and dairy),Water quality,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Large-scale rainfed arable crops,Animal-based energy,VL,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Large-scale rainfed arable crops,Bio-remediation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Large-scale rainfed arable crops,Buffering and attenuation of mass flows,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale rainfed arable crops,Climate regulation,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale rainfed arable crops,Dilution by atmosphere and ecosystems,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Large-scale rainfed arable crops,Disease control,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale rainfed arable crops,Fibres and other materials,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+
+ Although less practical, production process can take place without the ecosystem service due to availability of substitutes
+"
+Large-scale rainfed arable crops,Filtration,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Large-scale rainfed arable crops,Flood and storm protection,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale rainfed arable crops,Genetic materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Large-scale rainfed arable crops,Mass stabilisation and erosion control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale rainfed arable crops,Pest control,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Large-scale rainfed arable crops,Pollination,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+Large-scale rainfed arable crops,Soil quality,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+Large-scale rainfed arable crops,Surface water,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service. Although less practical, production process can take place without the ecosystem service due to availability of substitutes
+"
+Large-scale rainfed arable crops,Ventilation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Large-scale rainfed arable crops,Water flow maintenance,H,Ecosystem service is critical and irreplaceable in production process
+Large-scale rainfed arable crops,Water quality,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Leisure facility provision,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Leisure facility provision,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Leisure facility provision,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Leisure facility provision,Surface water,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Leisure facility provision,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Life science, pharma and biotech manufacture",Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Life science, pharma and biotech manufacture",Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Life science, pharma and biotech manufacture",Genetic materials,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+"Life science, pharma and biotech manufacture",Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+"Life science, pharma and biotech manufacture",Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+"Life science, pharma and biotech manufacture",Surface water,H,Ecosystem service is critical and irreplaceable in production process 
+"Life science, pharma and biotech manufacture",Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+"Life science, pharma and biotech manufacture",Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Life science, pharma and biotech tools and services",Dilution by atmosphere and ecosystems,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Life science, pharma and biotech tools and services",Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+"Life science, pharma and biotech tools and services",Surface water,H,Ecosystem service is critical and irreplaceable in production process 
+Managed health care,Mass stabilisation and erosion control,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Manufacture of machinery, parts and equipment",Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Manufacture of machinery, parts and equipment",Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Manufacture of machinery, parts and equipment",Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Manufacture of machinery, parts and equipment",Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+"Manufacture of machinery, parts and equipment",Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+"Manufacture of machinery, parts and equipment",Mass stabilisation and erosion control,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Manufacture of machinery, parts and equipment",Mediation of sensory impacts,M,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Manufacture of machinery, parts and equipment",Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+"Manufacture of machinery, parts and equipment",Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Manufacture of machinery, parts and equipment",Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+"Manufacture of machinery, parts and equipment",Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Manufacture of semiconductor equipment,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Manufacture of semiconductor equipment,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Manufacture of semiconductor equipment,Dilution by atmosphere and ecosystems,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Manufacture of semiconductor equipment,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Manufacture of semiconductor equipment,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Manufacture of semiconductor equipment,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Marine ports and services,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Marine ports and services,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Marine ports and services,Ground water,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Marine ports and services,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Marine ports and services,Surface water,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+Marine ports and services,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Marine ports and services,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Marine transportation,Climate regulation,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Marine transportation,Flood and storm protection,H,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Marine transportation,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Marine transportation,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Marine transportation,Water quality,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Membrane technology,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Membrane technology,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Membrane technology,Dilution by atmosphere and ecosystems,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Membrane technology,Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Membrane technology,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Membrane technology,Ground water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Membrane technology,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Membrane technology,Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Membrane technology,Surface water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Membrane technology,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Membrane technology,Water flow maintenance,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Membrane technology,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Metal processing,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Metal processing,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Metal processing,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Metal processing,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Metal processing,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Metal processing,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Metal processing,Mass stabilisation and erosion control,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Metal processing,Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Metal processing,Surface water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Metal processing,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Metal processing,Water flow maintenance,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Metal processing,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Mining,Climate regulation,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Mining,Ground water,H,Ecosystem service is critical and irreplaceable in production process 
+Mining,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Mining,Surface water,H,Ecosystem service is critical and irreplaceable in production process
+Mining,Water flow maintenance,H,Ecosystem service is critical and irreplaceable in production process
+Natural fibre production,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural fibre production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural fibre production,Fibres and other materials,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+
+ Although less practical, production process can take place without the ecosystem service due to availability of substitutes
+"
+Natural fibre production,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural fibre production,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Natural fibre production,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Natural fibre production,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Natural fibre production,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Natural fibre production,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Natural fibre production,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural gas combustion,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural gas combustion,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural gas combustion,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural gas combustion,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural gas combustion,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Natural gas combustion,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Natural gas combustion,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Natural gas combustion,Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural gas combustion,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Natural gas combustion,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Natural gas combustion,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Natural gas combustion,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Nuclear and thermal power stations,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Nuclear and thermal power stations,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Nuclear and thermal power stations,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Nuclear and thermal power stations,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Nuclear and thermal power stations,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Nuclear and thermal power stations,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Nuclear and thermal power stations,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Nuclear and thermal power stations,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Nuclear and thermal power stations,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas drilling,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas drilling,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas drilling,Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas drilling,Flood and storm protection,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas drilling,Ground water,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas drilling,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas drilling,Surface water,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas exploration surveys,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Oil and gas exploration surveys,Flood and storm protection,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas exploration surveys,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas refining,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas refining,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas refining,Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas refining,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Oil and gas refining,Ground water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas refining,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas refining,Surface water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas refining,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas services,Climate regulation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas storage,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas storage,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Oil and gas storage,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Oil and gas transportation,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Oil and gas transportation,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Oil and gas transportation,Mass stabilisation and erosion control,H,The production process is extremely vulnerable to disruption 
+Paper packaging production,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Paper packaging production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Polymerization,Ground water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Polymerization,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Polymerization,Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Polymerization,Surface water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Processed food and drink production,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Processed food and drink production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Processed food and drink production,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Processed food and drink production,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Processed food and drink production,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Processed food and drink production,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Processed food and drink production,Soil quality,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Processed food and drink production,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Processed food and drink production,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Processed food and drink production,Water quality,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Production of forest and wood-based products,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Production of forest and wood-based products,Ground water,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Production of forest and wood-based products,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Production of forest and wood-based products,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Production of forest and wood-based products,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Production of leisure or personal products,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Production of leisure or personal products,Fibres and other materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Production of leisure or personal products,Ground water,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Production of leisure or personal products,Surface water,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Production of paper products,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Production of paper products,Fibres and other materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Production of paper products,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Production of paper products,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Production of paper products,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Provision of health care,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Provision of health care,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Provision of health care,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Railway transportation,Climate regulation,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Railway transportation,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Railway transportation,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Railway transportation,Mass stabilisation and erosion control,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Railway transportation,Pest control,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Railway transportation,Surface water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Railway transportation,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Real estate activities,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Real estate activities,Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Real estate activities,Flood and storm protection,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Real estate activities,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Real estate activities,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Real estate activities,Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Real estate activities,Surface water,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+Real estate investment,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Recovery and separation of carbon dioxide,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Recovery and separation of carbon dioxide,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Recovery and separation of carbon dioxide,Dilution by atmosphere and ecosystems,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Recovery and separation of carbon dioxide,Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Recovery and separation of carbon dioxide,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Recovery and separation of carbon dioxide,Ground water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Recovery and separation of carbon dioxide,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Recovery and separation of carbon dioxide,Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Recovery and separation of carbon dioxide,Surface water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Recovery and separation of carbon dioxide,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Recovery and separation of carbon dioxide,Water flow maintenance,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Recovery and separation of carbon dioxide,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Restaurant provision,Climate regulation,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Restaurant provision,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Restaurant provision,Ground water,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Restaurant provision,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Restaurant provision,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Saltwater wild-caught fish,Buffering and attenuation of mass flows,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service due to the resilience of the production process to disruption
+Saltwater wild-caught fish,Dilution by atmosphere and ecosystems,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Saltwater wild-caught fish,Genetic materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Saltwater wild-caught fish,Maintain nursery habitats,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Saltwater wild-caught fish,Mass stabilisation and erosion control,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Saltwater wild-caught fish,Pest control,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Saltwater wild-caught fish,Soil quality,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Saltwater wild-caught fish,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Saltwater wild-caught fish,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Saltwater wild-caught fish,Water quality,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Animal-based energy,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Bio-remediation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Small-scale forestry,Climate regulation,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Disease control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Fibres and other materials,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale forestry,Flood and storm protection,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Small-scale forestry,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Mass stabilisation and erosion control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Pest control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Pollination,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Soil quality,H,"Production process can take place with some disruption of the ecosystem service, but the high quantity of the ecosystem service required for the production process makes this a high risk"
+Small-scale forestry,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale forestry,Water flow maintenance,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Animal-based energy,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Bio-remediation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Small-scale irrigated arable crops,Buffering and attenuation of mass flows,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Climate regulation,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Dilution by atmosphere and ecosystems,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Small-scale irrigated arable crops,Disease control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Fibres and other materials,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+
+ Although less practical, production process can take place without the ecosystem service due to availability of substitutes
+"
+Small-scale irrigated arable crops,Filtration,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Small-scale irrigated arable crops,Flood and storm protection,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Genetic materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Small-scale irrigated arable crops,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Mass stabilisation and erosion control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Pest control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Pollination,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Soil quality,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Ventilation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale irrigated arable crops,Water flow maintenance,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale irrigated arable crops,Water quality,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale livestock (beef and dairy),Bio-remediation,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Small-scale livestock (beef and dairy),Buffering and attenuation of mass flows,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale livestock (beef and dairy),Climate regulation,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale livestock (beef and dairy),Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale livestock (beef and dairy),Disease control,H,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Small-scale livestock (beef and dairy),Fibres and other materials,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale livestock (beef and dairy),Filtration,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Small-scale livestock (beef and dairy),Flood and storm protection,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale livestock (beef and dairy),Genetic materials,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale livestock (beef and dairy),Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale livestock (beef and dairy),Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale livestock (beef and dairy),Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale livestock (beef and dairy),Pest control,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Small-scale livestock (beef and dairy),Pollination,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale livestock (beef and dairy),Soil quality,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale livestock (beef and dairy),Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale livestock (beef and dairy),Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale livestock (beef and dairy),Water flow maintenance,H,Ecosystem service is critical and irreplaceable in production process
+Small-scale livestock (beef and dairy),Water quality,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Animal-based energy,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Bio-remediation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Small-scale rainfed arable crops,Buffering and attenuation of mass flows,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Climate regulation,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Dilution by atmosphere and ecosystems,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Small-scale rainfed arable crops,Disease control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Fibres and other materials,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+
+ Although less practical, production process can take place without the ecosystem service due to availability of substitutes
+"
+Small-scale rainfed arable crops,Filtration,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+Small-scale rainfed arable crops,Flood and storm protection,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Genetic materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Small-scale rainfed arable crops,Mass stabilisation and erosion control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Pest control,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Pollination,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Soil quality,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Surface water,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service. Although less practical, production process can take place without the ecosystem service due to availability of substitutes
+"
+Small-scale rainfed arable crops,Ventilation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Small-scale rainfed arable crops,Water flow maintenance,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Small-scale rainfed arable crops,Water quality,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solar energy provision,Climate regulation,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Solar energy provision,Flood and storm protection,M,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Solar energy provision,Ground water,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solar energy provision,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Solar energy provision,Surface water,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Solids processing,Ground water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Solids processing,Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Surface water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Water flow maintenance,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Solids processing,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Specialised consumer services,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Specialised consumer services,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Steel production,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Steel production,Ground water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Steel production,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Steel production,Surface water,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Steel production,Water flow maintenance,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Synthetic fertilizer production,Bio-remediation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Filtration,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Synthetic fertilizer production,Genetic materials,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Ground water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Mass stabilisation and erosion control,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Surface water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Water flow maintenance,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fertilizer production,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fibre production,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fibre production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fibre production,Fibres and other materials,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Synthetic fibre production,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fibre production,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Synthetic fibre production,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Synthetic fibre production,Mass stabilisation and erosion control,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Synthetic fibre production,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Synthetic fibre production,Water flow maintenance,M,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Synthetic fibre production,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Telecommunication and wireless services,Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Telecommunication and wireless services,Flood and storm protection,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Tobacco production,Fibres and other materials,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Tobacco production,Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Tobacco production,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Tobacco production,Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Tobacco production,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Tyre and rubber production,Bio-remediation,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Tyre and rubber production,Climate regulation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Tyre and rubber production,Dilution by atmosphere and ecosystems,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Tyre and rubber production,Filtration,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Tyre and rubber production,Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+Tyre and rubber production,Ground water,H,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Tyre and rubber production,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Tyre and rubber production,Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Tyre and rubber production,Surface water,H,"Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+Tyre and rubber production,Ventilation,VL,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Tyre and rubber production,Water flow maintenance,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+Tyre and rubber production,Water quality,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Vulcanisation,Ground water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+Vulcanisation,Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Vulcanisation,Surface water,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Water services (e.g. waste water, treatment and distribution)",Bio-remediation,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+"Water services (e.g. waste water, treatment and distribution)",Buffering and attenuation of mass flows,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Water services (e.g. waste water, treatment and distribution)",Climate regulation,M,Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service
+"Water services (e.g. waste water, treatment and distribution)",Filtration,M,"Although less practical, production process can take place without the ecosystem service due to availability of impact mitigation solutions"
+"Water services (e.g. waste water, treatment and distribution)",Flood and storm protection,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
+"Water services (e.g. waste water, treatment and distribution)",Ground water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+"Water services (e.g. waste water, treatment and distribution)",Mass stabilisation and erosion control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+"Water services (e.g. waste water, treatment and distribution)",Mediation of sensory impacts,L,Most of the time the production process can take place even with full disruption of the ecosystem service 
+"Water services (e.g. waste water, treatment and distribution)",Pest control,L,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+"Water services (e.g. waste water, treatment and distribution)",Soil quality,M,"Most of the time the production process can take place with limited (but not with full) disruption of the ecosystem service. Although less practical, production process can take place without the ecosystem service due to availability of substitutes"
+"Water services (e.g. waste water, treatment and distribution)",Surface water,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+"Water services (e.g. waste water, treatment and distribution)",Water flow maintenance,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+"Water services (e.g. waste water, treatment and distribution)",Water quality,H,The production process is extremely vulnerable to disruption The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Wind energy provision,Climate regulation,VH,The production process is extremely vulnerable to disruption. The degree of protection offered by the ecosystem service is critical and irreplaceable for the production process 
+Wind energy provision,Flood and storm protection,M,Most of the time the production process can take place even with full disruption of the ecosystem service due to the resilience of the production process to disruption
+Wind energy provision,Mass stabilisation and erosion control,M,"Although less practical, production process can take place without the ecosystem service due to availability of protection substitutes"
